@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umar-anwar-sdk&label=Profile%20views&color=0e75b6&style=flat" alt="umar-anwar-sdk" /> </p>
 
-- 🔭 I’m currently working on **Zoofari**
+- 🔭 I’m currently working on **AI Development**
 
 - 🌱 I’m currently learning **WordPress ,Shopify ,SEO**
 
